@@ -12,7 +12,7 @@ Je m'intéresse à la sécurité des systèmes et des réseaux, au cloud / DevSe
 
 ## À venir
 
-Un homelab de sécurité : réseau virtuel segmenté avec pare-feu OPNsense, serveur Linux durci, puis attaques et détection, documenté pas à pas.
+-----
 
 ## Compétences
 
