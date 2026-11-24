@@ -2,7 +2,7 @@
 
 Élève ingénieur en 2<sup>e</sup> année à l'**ENSEEIHT** (Toulouse), parcours **Architecture Systèmes et Réseaux**.
 
-Je m'intéresse à la sécurité des systèmes et des réseaux, au cloud / DevSecOps et à la GRC. Je recherche un **stage de 2 à 3 mois pour l'été 2027**, en France ou à l'étranger.
+Je m'intéresse à la sécurité des systèmes et des réseaux, au cloud / DevSecOps. Je recherche un **stage de 2 à 3 mois pour l'été 2027**, en France ou à l'étranger.
 
 ## Projets
 
