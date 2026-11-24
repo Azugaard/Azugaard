@@ -10,10 +10,6 @@ Je m'intéresse à la sécurité des systèmes et des réseaux, au cloud / DevSe
 - **[Pilotage de diapositives par gestes](https://github.com/Azugaard/Projet-Pilotage-Geste)** – suivi de la main par webcam pour changer de slide ou piloter le curseur. *Python, MediaPipe, OpenCV.*
 - **[Markdown Visualizer](https://github.com/Azugaard/ExtensionVSCodeMarkdown)** – extension VS Code pour prévisualiser du Markdown avec Mermaid et KaTeX. *JavaScript.*
 
-## À venir
-
------
-
 ## Compétences
 
 Python · JavaScript · C · SQL · Node.js · Flask · Socket.IO · Git · UML · méthodes agiles
